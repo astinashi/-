@@ -91,6 +91,96 @@ export const TECH_DATA: TechProduct[] = [
     priceB: 6999,
     correct: "A",
     reason: "传统品牌溢价：为历史、工艺沉淀以及品牌地位支付的“仪式感”成本。"
+  },
+  {
+    id: 11,
+    "productA": "苹果官方抛光布 (Apple Cloth)",
+    "priceA": 145,
+    "productB": "小米巨能写中性笔 (10支装)",
+    "priceB": 12,
+    "correct": "A",
+    "reason": "信仰无价！这是最经典的【品牌溢价】案例，一块布卖出了奢侈品的感觉。"
+  },
+  {
+    id: 12,
+    "productA": "戴森 (Dyson) Supersonic 吹风机",
+    "priceA": 2599,
+    "productB": "飞利浦入门款吹风机",
+    "priceB": 99,
+    "correct": "A",
+    "reason": "戴森卖的不是风，是【专利技术】和中产阶级生活方式的入场券。"
+  },
+  {
+    id: 13,
+    "productA": "Apple Vision Pro (空间计算设备)",
+    "priceA": 29999,
+    "productB": "Meta Quest 3 (VR一体机)",
+    "priceB": 3500,
+    "correct": "A",
+    "reason": "虽然都是戴头上的，但Vision Pro是【创新者的窘境】中的高端尝试，堆料到了极致。"
+  },
+  {
+    id: 14,
+    "productA": "任天堂 Switch OLED 游戏机",
+    "priceA": 2100,
+    "productB": "罗技 G502 游戏鼠标",
+    "priceB": 350,
+    "correct": "A",
+    "reason": "整机系统当然比外设贵。但体现了【系统集成】与专用娱乐设备的商业价值。"
+  },
+  {
+    id: 15,
+    "productA": "大疆 DJI Mini 4 Pro 无人机",
+    "priceA": 4788,
+    "productB": "儿童遥控直升机玩具",
+    "priceB": 88,
+    "correct": "A",
+    "reason": "虽然都能飞，一个是【精密仪器】，一个是简单玩具，技术门槛决定价格壁垒。"
+  },
+  {
+    id: 16,
+    "productA": "星巴克 陶瓷马克杯",
+    "priceA": 120,
+    "productB": "小米手环 8 (智能穿戴)",
+    "priceB": 229,
+    "correct": "B",
+    "reason": "陷阱题！虽然星巴克杯子有溢价，但内置芯片、屏幕和电池的智能穿戴成本通常更高。"
+  },
+  {
+    id: 17,
+    "productA": "1TB microSD 存储卡 (闪迪极速版)",
+    "priceA": 999,
+    "productB": "1TB 机械硬盘 (普通台式机用)",
+    "priceB": 320,
+    "correct": "A",
+    "reason": "同样是1TB容量，【微型化】溢价很高。把仓库塞进指甲盖，技术难度远超传统硬盘。"
+  },
+  {
+    id: 18,
+    "productA": "苹果 AirPods Max 头戴式耳机",
+    "priceA": 3999,
+    "productB": "索尼 WH-1000XM5 降噪耳机",
+    "priceB": 2299,
+    "correct": "A",
+    "reason": "虽然索尼是降噪老牌，但苹果依靠【生态壁垒】和工艺材质强行拉高了品类上限。"
+  },
+  {
+    id: 19,
+    "productA": "特斯拉 Cyberwhistle (不锈钢哨子)",
+    "priceA": 350,
+    "productB": "普通体育老师用的哨子",
+    "priceB": 5,
+    "correct": "A",
+    "reason": "离谱周边！这是马斯克的【粉丝经济】收割，卖的不是哨子，是品牌的话题性。"
+  },
+  {
+    id: 20,
+    "productA": "普通的 2米 USB-C 充电线",
+    "priceA": 15,
+    "productB": "苹果雷霹 4 (Thunderbolt 4) Pro 连接线 (1.8米)",
+    "priceB": 949,
+    "correct": "B",
+    "reason": "视觉欺诈！看似都是线，后者内置了有源芯片，是数据传输领域的【高速公路】。"
   }
 ];
 
